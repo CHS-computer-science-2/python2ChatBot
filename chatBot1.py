@@ -7,7 +7,7 @@ def main():
     print('Hello this is your computer...what is your favorite number?')
     #Declaring our first variable below called 'computerfavnumber' and storing the
     #value 33
-    computerfavnumber=33
+    computerfavnumber=25
     #We now declare a variable but set the variable to hold whatever the *user*
     #inputs into the program
     favnumber = input("Number please: ")
